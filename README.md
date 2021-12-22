@@ -1,5 +1,5 @@
 # TV-Serial-Character-Driver
-Spin program for Propeller chip to provide NTSC composite signal of Serial input
+Spin program for Propeller chip to provide NTSC composite signal (14 Rows of 43 Columns) of Serial input
 
 This program was tested on a Propeller Project Board with the following configuration
 
